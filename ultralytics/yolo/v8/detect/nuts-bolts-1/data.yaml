@@ -1,0 +1,13 @@
+names:
+- bolt
+- nut
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: nuts-bolts-ebgh7
+  url: https://universe.roboflow.com/project/nuts-bolts-ebgh7/dataset/1
+  version: 1
+  workspace: project
+test: ../test/images
+train: nuts-bolts-1/train/images
+val: nuts-bolts-1/valid/images
